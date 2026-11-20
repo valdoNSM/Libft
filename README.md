@@ -209,4 +209,4 @@ AI was used as a learning assistant to support understanding and problem-solving
 
 **Login:** naikhoua
 
-**School:** 42 / 1337
+**School:** 42 / 1337# Libft
