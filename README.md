@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by &lt; naikhoua &gt;.*
+*This project has been created as part of the 42 curriculum by naikhoua.*
 
 # Libft
 
@@ -207,6 +207,6 @@ AI was used as a learning assistant to support understanding and problem-solving
 
 # Author
 
-**Login:** &lt; naikhoua &gt;
+**Login:** naikhoua
 
 **School:** 42 / 1337
